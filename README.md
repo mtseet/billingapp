@@ -26,8 +26,8 @@ An invoice and billing management application
 ## Editions
 
 - Free - allows 25 invoices, find the app downloads in the releases section, good for testing.
-- Standard - allows up to 200 invoices $25. <a href="">Purchase here</a>.
-- Pro - allows up to 1000 invoices $100. <a href="">Purchase here</a>.
+- Standard - allows up to 200 invoices $25. <a href="https://mtseet.gumroad.com/l/billingapp-standard?wanted=true">Purchase here</a>.
+- Pro - allows up to 1000 invoices $100. <a href="https://mtseet.gumroad.com/l/billingapp-pro?wanted=true">Purchase here</a>.
 
 **Please make sure you test the app on your platform with the free edition before purchasing the app!**
 
