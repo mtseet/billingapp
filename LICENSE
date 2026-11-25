@@ -1,9 +1,87 @@
-## Terms and conditions
+END USER LICENSE AGREEMENT
 
-1. Acceptance of Risk. By downloading, installing, or using the Software, you acknowledge that you do so entirely at your own risk and discretion. The Software is provided "AS IS" and "AS AVAILABLE," without warranty of any kind, express or implied.
+This End User License Agreement ("Agreement") is a legal contract between
+you ("Licensee") and mtseet ("Licensor") governing your use
+of billingapp, including all associated documentation
+(collectively, the "Software").
 
-2. Limitation of Liability. To the maximum extent permitted by applicable law, in no event shall the Developer or any Developer Indemnitee be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, loss of data, loss of goodwill, business interruption, or damages resulting from the use or inability to use the Software, even if the Developer has been advised of the possibility of such damages.
+By installing, downloading, or otherwise using the Software, you agree to
+be bound by this Agreement. If you do not agree, do not use the Software
+and promptly request a refund in accordance with the Refund Policy.
 
-4. No Liability for Third-Party Claims. The Developer shall have no liability for any claims, suits, or proceedings brought by any third party against you or any other person, to the extent such claims arise from your use of the Software, your content, or your breach of these Terms.
+1. GRANT OF LICENSE
+   Subject to the terms of this Agreement, Licensor grants you a
+   non-exclusive, non-transferable, non-sublicensable, revocable license
+   to install and use the Software solely for your internal business
+   purposes, in accordance with the documentation.
 
-5. Governing Law. These Terms shall be governed by and construed in accordance with the laws of your country, without regard to its conflict of law principles.
+2. LICENSE RESTRICTIONS
+   You may NOT:
+   a) copy, modify, or create derivative works of the Software;
+   b) reverse engineer, decompile, disassemble, or otherwise attempt to
+      derive the source code of the Software;
+   c) remove, alter, or obscure any proprietary notices, labels, or
+      marks;
+   d) rent, lease, lend, sell, redistribute, sublicense, or otherwise
+      transfer the Software or any copy of it;
+   e) use the Software to build a competing product or to provide
+      billing/invoicing services to third parties as a hosted or
+      managed service;
+   f) use the Software in violation of any applicable law.
+
+3. OWNERSHIP
+   The Software, including all intellectual property rights, is and
+   remains the exclusive property of Licensor. No rights are granted to
+   you except as expressly stated in this Agreement.
+
+4. DATA AND BACKUP
+   Your invoice, client, and financial data ("Customer Data") remains
+   your property. You are solely responsible for backing up and securing
+   Customer Data. Licensor does not guarantee data recovery.
+
+5. TRIAL AND ACTIVATION
+   A trial version is provided for evaluation only.
+   Activation requires a valid license key. License keys are
+   non-transferable and may be bound to a specific installation.
+
+6. SUPPORT AND UPDATES
+   Support and updates are provided under a separate support plan, if
+   any. Licensor may discontinue support for older versions.
+
+7. TERMINATION
+   This Agreement continues until terminated. It terminates automatically
+   if you breach any term. Upon termination you must cease all use of
+   the Software and destroy all copies. Sections 3, 4, 8, and 9 survive
+   termination.
+
+8. DISCLAIMER OF WARRANTIES
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED "AS
+   IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON-INFRINGEMENT. Licensor does not warrant that the
+   Software will be error-free or uninterrupted.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE
+   FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR FOR LOST PROFITS, DATA, OR BUSINESS, ARISING FROM YOUR
+   USE OF THE SOFTWARE. LICENSOR'S TOTAL AGGREGATE LIABILITY SHALL NOT
+   EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE IN THE TWELVE (12) MONTHS
+   PRECEDING THE CLAIM.
+
+10. REFUND POLICY
+    All sales are final no refunds will be provided as transactions are
+    converted by payment processor to the Licensor's currency. This is not
+    reversible.
+
+11. GOVERNING LAW AND DISPUTES
+    This Agreement is governed by the laws of the Licensor's State/Country, 
+    without regard to conflict-of-law principles. Disputes shall be resolved in
+    the courts of Licensor's State/Country.
+
+12. ENTIRE AGREEMENT
+    This Agreement is the entire agreement between you and Licensor and
+    supersedes all prior or contemporaneous agreements. Amendments must
+    be in writing and signed by both parties.
+
+Copyright © [2026] mtseet. All rights reserved.   
